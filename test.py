@@ -4,3 +4,5 @@ def square(x):
 
 def test_square():
     assert square(3) == 9
+
+    
